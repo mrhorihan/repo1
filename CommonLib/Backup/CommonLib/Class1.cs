@@ -11,15 +11,5 @@ namespace CommonLib
         {
             return "Alpha";
         }
-
-        public string GetBeta()
-        {
-            return "Beta";
-        }
-
-        public string Gamma()
-        {
-            return "Gamma";
-        }
     }
 }

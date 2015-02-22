@@ -21,5 +21,10 @@ namespace CommonLib
         {
             return "Gamma";
         }
+
+        public string Delta()
+        {
+            return "Delta";
+        }
     }
 }

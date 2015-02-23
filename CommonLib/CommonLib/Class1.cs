@@ -14,7 +14,7 @@ namespace CommonLib
 
         public string GetBeta()
         {
-            return "Beta";
+            return "Beta2";
         }
 
         //public string Gamma()

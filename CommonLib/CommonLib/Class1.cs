@@ -17,10 +17,10 @@ namespace CommonLib
             return "Beta";
         }
 
-        //public string Gamma()
-        //{
-        //    return "Gamma";
-        //}
+        public string Gamma()
+        {
+            return "Gamma";
+        }
 
    }
 }

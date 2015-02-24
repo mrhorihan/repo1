@@ -19,7 +19,7 @@ namespace CommonLib
 
         public string Gamma()
         {
-            return "Gamma7";
+            return "Gamma8";
         }
 
    }
